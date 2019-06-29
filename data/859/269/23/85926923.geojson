@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000624,
-    "geom:area_square_m":6112958.873772,
+    "geom:area_square_m":6112958.873783,
     "geom:bbox":"127.078857422,37.5300995119,127.107528403,37.5663509068",
     "geom:latitude":37.547249,
     "geom:longitude":127.093657,
@@ -25,20 +25,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u9675\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Neung-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:kor_x_preferred":[
         "\ub2a5\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Neung-dong"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:swe_x_preferred":[
         "Neung-dong"
@@ -52,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "Neung-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u9675\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468993,
+    "wof:lastmodified":1561791165,
     "wof:name":"\ub2a5\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

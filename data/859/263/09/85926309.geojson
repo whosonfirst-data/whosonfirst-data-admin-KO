@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1846137.804881,
+    "geom:area_square_m":1846137.804879,
     "geom:bbox":"126.8884792,37.5010103659,126.90391518,37.520618671",
     "geom:latitude":37.510978,
     "geom:longitude":126.896416,
@@ -23,9 +23,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u6587\u4f86\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Mullae-dong"
     ],
@@ -37,6 +34,9 @@
     ],
     "name:vie_x_preferred":[
         "Mullae-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u4f86\u6d1e"
     ],
     "qs:gn_id":0,
     "qs:id":0,
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269291,
+    "wof:lastmodified":1561791168,
     "wof:name":"\ubb38\ub798\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2706068.560719,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.136137,37.383648,127.136137,37.383648",
     "geom:latitude":37.383648,
     "geom:longitude":127.136137,
@@ -24,9 +24,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:chi_x_preferred":[
-        "\u4e8c\u6885\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Imae-dong"
     ],
@@ -39,6 +36,9 @@
     ],
     "name:unk_x_variant":[
         "\uc774\ub9e41\ub3d9"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u6885\u6d1e"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -70,11 +70,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026521,
-        1108746519,
-        85673191
+        1108746519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +99,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938762,
+    "wof:lastmodified":1561791166,
     "wof:name":"\uc774\ub9e41\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

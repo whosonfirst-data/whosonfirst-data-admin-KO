@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000697,
-    "geom:area_square_m":6837705.090974,
+    "geom:area_square_m":6837705.09098,
     "geom:bbox":"126.864624023,37.4614258932,126.91120535,37.4879354017",
     "geom:latitude":37.474886,
     "geom:longitude":126.891293,
@@ -33,7 +33,7 @@
     "name:kor_x_variant":[
         "\uac00\ub9ac\ubd09"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Garibong-dong"
     ],
     "name:sco_x_preferred":[
@@ -81,7 +81,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1561791167,
     "wof:name":"\uac00\ub9ac\ubd09\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

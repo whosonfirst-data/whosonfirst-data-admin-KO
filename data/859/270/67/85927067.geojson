@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000946,
-    "geom:area_square_m":9283677.350074,
+    "geom:area_square_m":9283677.350091,
     "geom:bbox":"126.960754395,37.4268880276,127.001953125,37.4690235115",
     "geom:latitude":37.446033,
     "geom:longitude":126.979685,
@@ -30,7 +30,7 @@
     "name:kor_x_preferred":[
         "\ub0a8\ud604\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Namhyeon-dong"
     ],
     "name:swe_x_preferred":[
@@ -71,7 +71,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1553814982,
+    "wof:lastmodified":1561791165,
     "wof:name":"\ub0a8\ud604\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

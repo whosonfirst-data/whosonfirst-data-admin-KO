@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000792,
-    "geom:area_square_m":7761622.098846,
+    "geom:area_square_m":7761622.098834,
     "geom:bbox":"126.808910727,37.5280438773,126.849871292,37.5589294751",
     "geom:latitude":37.542558,
     "geom:longitude":126.827638,
@@ -29,7 +29,7 @@
     "name:kor_x_preferred":[
         "\ubc1c\uc0b0\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Balsan-dong"
     ],
     "name:sco_x_preferred":[
@@ -95,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1561791167,
     "wof:name":"\ubc1c\uc0b0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":4077272.734821,
+    "geom:area_square_m":4077272.734831,
     "geom:bbox":"127.059631348,37.5511100011,127.093295154,37.5707052423",
     "geom:latitude":37.561117,
     "geom:longitude":127.07558,
@@ -34,7 +34,7 @@
     "name:kor_x_variant":[
         "\uc6a9\ub2f9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yongdap-dong"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468997,
+    "wof:lastmodified":1561791165,
     "wof:name":"\uc6a9\ub2f5\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

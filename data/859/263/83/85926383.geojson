@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1947083.037145,
+    "geom:area_square_m":1947083.037146,
     "geom:bbox":"127.111816406,37.5010103659,127.12941465,37.5162617353",
     "geom:latitude":37.508146,
     "geom:longitude":127.120729,
@@ -25,17 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u82b3\u8351\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Bangi-dong"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u06af\u06cc-\u062f\u0648\u0646\u06af"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\uc774\ub3d9"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646\u06af\u06cc-\u062f\u0648\u0646\u06af"
     ],
     "name:sco_x_preferred":[
         "Bangi-dong"
@@ -46,6 +43,9 @@
     ],
     "name:vie_x_preferred":[
         "Bangi-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b3\u8351\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468994,
+    "wof:lastmodified":1561791168,
     "wof:name":"\ubc29\uc774\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

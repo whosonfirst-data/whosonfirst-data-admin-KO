@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":2131299.652846,
+    "geom:area_square_m":2131299.652845,
     "geom:bbox":"126.985473633,37.5402217681,127.002512265,37.556170306",
     "geom:latitude":37.547205,
     "geom:longitude":126.993592,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u7b46\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Pil-dong"
     ],
@@ -49,6 +46,9 @@
     ],
     "name:vie_x_preferred":[
         "Pil-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b46\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468998,
+    "wof:lastmodified":1561791163,
     "wof:name":"\ud544\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

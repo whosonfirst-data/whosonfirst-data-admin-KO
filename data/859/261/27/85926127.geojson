@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":3058778.589064,
+    "geom:area_square_m":3058778.589059,
     "geom:bbox":"127.025299072,37.5794124498,127.047622979,37.6011762366",
     "geom:latitude":37.590394,
     "geom:longitude":127.036686,
@@ -29,7 +29,7 @@
     "name:kor_x_preferred":[
         "\uc885\uc554\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jongam-dong"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527268861,
+    "wof:lastmodified":1561791163,
     "wof:name":"\uc885\uc554\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

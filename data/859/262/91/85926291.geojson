@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":2014820.939134,
+    "geom:area_square_m":2014820.939131,
     "geom:bbox":"126.884836426,37.4247070129,126.903076172,37.4375839614",
     "geom:latitude":37.430637,
     "geom:longitude":126.893842,
@@ -29,7 +29,7 @@
     "name:kor_x_preferred":[
         "\uc2dc\ud765\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Siheung-dong"
     ],
     "name:tha_x_preferred":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1561791167,
     "wof:name":"\uc2dc\ud765\ub3d9",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",

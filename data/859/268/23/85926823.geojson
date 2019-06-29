@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":3765851.303446,
+    "geom:area_square_m":3765851.303437,
     "geom:bbox":"126.940308211,37.5663511614,126.969623018,37.5899122275",
     "geom:latitude":37.57651,
     "geom:longitude":126.951822,
@@ -34,7 +34,7 @@
     "name:kor_x_preferred":[
         "\ubb34\uc545\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Muak-dong"
     ],
     "name:sco_x_preferred":[
@@ -86,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468993,
+    "wof:lastmodified":1561791163,
     "wof:name":"\ubb34\uc545\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

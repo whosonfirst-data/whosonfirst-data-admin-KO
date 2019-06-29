@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1570587.286139,
+    "geom:area_square_m":1570587.286135,
     "geom:bbox":"127.128295898,37.5053681998,127.147896463,37.5162615763",
     "geom:latitude":37.509866,
     "geom:longitude":127.137332,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u4e94\u8f2a\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Oryun-dong"
     ],
@@ -46,6 +43,9 @@
     ],
     "name:vie_x_preferred":[
         "Oryun-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u8f2a\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468996,
+    "wof:lastmodified":1561791166,
     "wof:name":"\uc624\ub95c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

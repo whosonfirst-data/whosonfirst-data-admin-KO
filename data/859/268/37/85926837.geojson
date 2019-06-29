@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1412197.655498,
+    "geom:area_square_m":1412197.655497,
     "geom:bbox":"126.996459961,37.5641741133,127.015686035,37.575058998",
     "geom:latitude":37.570509,
     "geom:longitude":127.006546,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u68a8\u82b1\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Ihwa-dong"
     ],
@@ -37,7 +34,7 @@
     "name:kor_x_preferred":[
         "\uc774\ud654\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ihwa-dong"
     ],
     "name:sco_x_preferred":[
@@ -52,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "Ihwa-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u68a8\u82b1\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468997,
+    "wof:lastmodified":1561791163,
     "wof:name":"\uc774\ud654\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

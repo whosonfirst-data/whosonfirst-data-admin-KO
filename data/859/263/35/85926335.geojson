@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":7930300.842368,
+    "geom:area_square_m":7930300.842378,
     "geom:bbox":"127.001927636,37.4639584138,127.037658691,37.4980625499",
     "geom:latitude":37.482147,
     "geom:longitude":127.02093,
@@ -25,16 +25,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u745e\u8349\u6d1e"
+    "name:deu_x_preferred":[
+        "Seocho-dong"
     ],
     "name:eng_x_preferred":[
         "Seocho-dong"
     ],
-    "name:fre_x_preferred":[
-        "Seocho-dong"
+    "name:fas_x_preferred":[
+        "\u0633\u0626\u0648\u0686\u0648-\u062f\u0648\u0646\u06af"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Seocho-dong"
     ],
     "name:jpn_x_preferred":[
@@ -43,11 +43,8 @@
     "name:kor_x_preferred":[
         "\uc11c\ucd08\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Seocho-dong"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0626\u0648\u0686\u0648-\u062f\u0648\u0646\u06af"
     ],
     "name:sco_x_preferred":[
         "Seocho-dong"
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Seocho-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u745e\u8349\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -98,7 +98,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791167,
     "wof:name":"\uc11c\ucd08\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

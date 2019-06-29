@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1988767.800004,
+    "geom:area_square_m":1988767.800005,
     "geom:bbox":"127.056325916,37.5881187028,127.0750888,37.6057533681",
     "geom:latitude":37.59582,
     "geom:longitude":127.066002,
@@ -29,7 +29,7 @@
     "name:kor_x_preferred":[
         "\uc11d\uad00\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Seokgwan-dong"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527268861,
+    "wof:lastmodified":1561791164,
     "wof:name":"\uc11d\uad00\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1449917.720356,
+    "geom:area_square_m":1449917.720355,
     "geom:bbox":"127.045898437,37.5423995646,127.05986675,37.5576424268",
     "geom:latitude":37.549911,
     "geom:longitude":127.052698,
@@ -28,14 +28,14 @@
     "name:eng_x_preferred":[
         "Sageun-dong"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06af\u0648\u0646-\u062f\u0648\u0646\u06af"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uadfc\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sageun-dong"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06af\u0648\u0646-\u062f\u0648\u0646\u06af"
     ],
     "name:swe_x_preferred":[
         "Sageun-dong"
@@ -79,7 +79,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791165,
     "wof:name":"\uc0ac\uadfc\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

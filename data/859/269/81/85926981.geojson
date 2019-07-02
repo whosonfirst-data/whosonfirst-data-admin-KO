@@ -24,16 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u5929\u7136\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Cheonyeon-dong"
     ],
     "name:kor_x_preferred":[
         "\ucc9c\uc5f0\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cheonyeon-dong"
     ],
     "name:swe_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:vie_x_preferred":[
         "Cheonyeon-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u7136\u6d1e"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -78,7 +78,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527268914,
+    "wof:lastmodified":1561791165,
     "wof:name":"\ucc9c\uc5f0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

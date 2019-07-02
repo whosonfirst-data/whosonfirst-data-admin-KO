@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":3612213.152393,
+    "geom:area_square_m":3612213.152386,
     "geom:bbox":"127.040380982,37.5518771391,127.06237793,37.5750590051",
     "geom:latitude":37.564007,
     "geom:longitude":127.050676,
@@ -31,7 +31,7 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc7a5\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Majang-dong"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +80,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468993,
+    "wof:lastmodified":1561791161,
     "wof:name":"\ub9c8\uc7a5\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":3096105.78249,
+    "geom:area_square_m":3096105.782487,
     "geom:bbox":"126.917827087,37.4872174186,126.947021484,37.5097258429",
     "geom:latitude":37.499686,
     "geom:longitude":126.933576,
@@ -25,11 +25,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u5927\u65b9\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Daebang-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0627\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30d0\u30f3\u30c9\u30f3"
@@ -37,11 +37,8 @@
     "name:kor_x_preferred":[
         "\ub300\ubc29\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daebang-dong"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0628\u0627\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:swe_x_preferred":[
         "Daebang-dong"
@@ -55,6 +52,9 @@
     ],
     "name:vie_x_preferred":[
         "Daebang-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u65b9\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468993,
+    "wof:lastmodified":1561791165,
     "wof:name":"\ub300\ubc29\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

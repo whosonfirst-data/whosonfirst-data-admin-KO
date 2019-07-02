@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1509780.143532,
+    "geom:area_square_m":1509780.143534,
     "geom:bbox":"126.95680294,37.5576424176,126.974487305,37.571410513",
     "geom:latitude":37.56384,
     "geom:longitude":126.966441,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u5e73\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Gyonam-dong"
     ],
@@ -37,7 +34,7 @@
     "name:kor_x_preferred":[
         "\uad50\ub0a8\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gyonam-dong"
     ],
     "name:sco_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "Gyonam-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -85,7 +85,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468992,
+    "wof:lastmodified":1561791162,
     "wof:name":"\uad50\ub0a8\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

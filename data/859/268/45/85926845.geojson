@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":2155925.305412,
+    "geom:area_square_m":2155925.30541,
     "geom:bbox":"126.968994141,37.5478437723,126.990966797,37.566351225",
     "geom:latitude":37.556991,
     "geom:longitude":126.979857,
@@ -25,20 +25,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u5c0f\u516c\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Sogong-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06af\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:jpn_x_preferred":[
         "\u5c0f\u516c\u6d1e"
     ],
     "name:kor_x_preferred":[
         "\uc18c\uacf5\ub3d9"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06af\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:sco_x_preferred":[
         "Sogong-dong"
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "Sogong-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u516c\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -88,7 +88,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791162,
     "wof:name":"\uc18c\uacf5\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

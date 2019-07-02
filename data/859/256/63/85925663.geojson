@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14847390.273267,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.863977,37.353836,126.863977,37.353836",
     "geom:latitude":37.353836,
     "geom:longitude":126.863977,
@@ -36,7 +36,7 @@
         "\uc7a5\uc0c1\ub3d9",
         "\uc7a5\ud558\ub3d9"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ansan-dong"
     ],
     "name:swe_x_preferred":[
@@ -75,10 +75,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
-        1108746409,
-        85673191
+        1108746409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +103,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938791,
+    "wof:lastmodified":1561791165,
     "wof:name":"\uc548\uc0b0\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

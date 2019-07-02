@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2713649.471324,
+    "geom:area_square_m":2713649.47132,
     "geom:bbox":"127.012939453,37.5641741138,127.037658691,37.5794125134",
     "geom:latitude":37.573131,
     "geom:longitude":127.025182,
@@ -31,7 +31,7 @@
     "name:kor_x_preferred":[
         "\ubcf4\ubb38\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bomun-dong"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +80,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468994,
+    "wof:lastmodified":1561791165,
     "wof:name":"\ubcf4\ubb38\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

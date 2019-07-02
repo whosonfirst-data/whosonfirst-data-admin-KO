@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
-    "geom:area_square_m":3665181.957986,
+    "geom:area_square_m":3665181.957982,
     "geom:bbox":"126.892089844,37.4491470435,126.928425025,37.4661386023",
     "geom:latitude":37.45792,
     "geom:longitude":126.910655,
@@ -32,7 +32,7 @@
     "name:kor_x_preferred":[
         "\ub3c5\uc0b0\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Doksan-dong"
     ],
     "name:tha_x_preferred":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1561791167,
     "wof:name":"\ub3c5\uc0b0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":5389791.859071,
+    "geom:area_square_m":5389791.859073,
     "geom:bbox":"127.093692081,37.4455767427,127.133789062,37.4734437306",
     "geom:latitude":37.456384,
     "geom:longitude":127.111106,
@@ -24,11 +24,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u7d30\u8c37\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Segok-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06af\u0648\u06a9-\u062f\u0648\u0646\u06af"
     ],
     "name:jpn_x_preferred":[
         "\u7d30\u8c37\u6d1e"
@@ -36,17 +36,17 @@
     "name:kor_x_preferred":[
         "\uc138\uace1\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Segok-dong"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06af\u0648\u06a9-\u062f\u0648\u0646\u06af"
     ],
     "name:sco_x_preferred":[
         "Segok-dong"
     ],
     "name:swe_x_preferred":[
         "Segok-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d30\u8c37\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791166,
     "wof:name":"\uc138\uace1\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

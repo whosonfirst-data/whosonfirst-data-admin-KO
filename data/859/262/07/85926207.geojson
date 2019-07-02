@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2583500.144727,
+    "geom:area_square_m":2583500.144719,
     "geom:bbox":"126.942901611,37.5467549891,126.968994141,37.5634074433",
     "geom:latitude":37.554408,
     "geom:longitude":126.956138,
@@ -32,7 +32,7 @@
     "name:kor_x_variant":[
         "\ubd81\uc544\ud604"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bugahyeon-dong"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1561791167,
     "wof:name":"\ubd81\uc544\ud604\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

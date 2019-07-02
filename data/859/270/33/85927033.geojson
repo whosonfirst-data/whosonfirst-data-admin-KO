@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":2733187.20646,
+    "geom:area_square_m":2733187.206462,
     "geom:bbox":"126.870117187,37.4966522776,126.893208596,37.5154934517",
     "geom:latitude":37.506537,
     "geom:longitude":126.882082,
@@ -25,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u65b0\u9053\u6797\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Sindorim-dong"
     ],
@@ -37,7 +34,7 @@
     "name:kor_x_variant":[
         "\uc2e0\ub3c4\ub9bc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sindorim-dong"
     ],
     "name:sco_x_preferred":[
@@ -52,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "Sindorim-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u9053\u6797\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791165,
     "wof:name":"\uc2e0\ub3c4\ub9bc\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

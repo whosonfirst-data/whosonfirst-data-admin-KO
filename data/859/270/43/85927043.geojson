@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000697,
-    "geom:area_square_m":6835159.801489,
+    "geom:area_square_m":6835159.801479,
     "geom:bbox":"126.814968792,37.4777970705,126.85597699,37.5087340855",
     "geom:latitude":37.495292,
     "geom:longitude":126.834677,
@@ -31,7 +31,7 @@
     "name:kor_x_preferred":[
         "\uc218\uad81\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sugung-dong"
     ],
     "name:sco_x_preferred":[
@@ -76,7 +76,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1561791166,
     "wof:name":"\uc218\uad81\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

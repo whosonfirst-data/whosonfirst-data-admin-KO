@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000611,
-    "geom:area_square_m":5996334.70676,
+    "geom:area_square_m":5996334.706758,
     "geom:bbox":"127.001114061,37.4944731932,127.034912109,37.5206186789",
     "geom:latitude":37.507087,
     "geom:longitude":127.019057,
@@ -24,16 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u8836\u9662\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Jamwon-dong"
     ],
     "name:kor_x_preferred":[
         "\uc7a0\uc6d0\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jamwon-dong"
     ],
     "name:sco_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u0648\u0648\u06ba -\u0688\u0648\u0646\u06af"
+    ],
+    "name:zho_x_preferred":[
+        "\u8836\u9662\u6d1e"
     ],
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
@@ -81,7 +81,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269152,
+    "wof:lastmodified":1561791166,
     "wof:name":"\uc7a0\uc6d0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

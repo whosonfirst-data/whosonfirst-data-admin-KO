@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8529858.456701,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.433362,44.791502,20.433362,44.791502",
     "geom:latitude":44.791502,
     "geom:longitude":20.433362,
@@ -26,16 +26,10 @@
     "name:bos_x_preferred":[
         "Senjak"
     ],
-    "name:dut_x_preferred":[
-        "Senjak"
-    ],
     "name:eng_x_preferred":[
         "Senjak"
     ],
     "name:fra_x_preferred":[
-        "Senjak"
-    ],
-    "name:fre_x_preferred":[
         "Senjak"
     ],
     "name:hbs_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30cb\u30e3\u30af\u5730\u533a"
+    ],
+    "name:nld_x_preferred":[
+        "Senjak"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u045a\u0430\u043a"
@@ -86,12 +83,12 @@
     "wd:longitude":20.438669,
     "wd:wordcount":897,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108810063,
         85633755,
         404228357,
-        101914163
+        101914163,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932037,
+    "wof:lastmodified":1561791168,
     "wof:name":"Senjak",
     "wof:parent_id":101914163,
     "wof:placetype":"neighbourhood",

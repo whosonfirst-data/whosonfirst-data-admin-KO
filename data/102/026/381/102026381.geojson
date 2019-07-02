@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001485,
-    "geom:area_square_m":15085036.986956,
+    "geom:area_square_m":15085036.986972,
     "geom:bbox":"126.370302513,34.7190611599,126.392148786,34.8273212798",
     "geom:latitude":34.77201,
     "geom:longitude":126.381226,
@@ -35,20 +35,14 @@
     "name:ces_x_preferred":[
         "Mokpcho"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u6d66\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Mokpcho"
-    ],
     "name:dan_x_preferred":[
         "Mokpo"
     ],
     "name:deu_x_preferred":[
         "Mokpo"
     ],
-    "name:dut_x_preferred":[
-        "Mokpo"
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03ba\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mokpo"
@@ -64,15 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Mokpo"
-    ],
-    "name:fre_x_preferred":[
-        "Mokpo"
-    ],
-    "name:ger_x_preferred":[
-        "Mokpo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03ba\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a95\u0acd\u0aaa\u0acb"
@@ -110,11 +95,11 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0915\u094d\u092a\u094d\u092f\u094b"
     ],
-    "name:may_x_preferred":[
-        "Mokpo"
-    ],
     "name:mon_x_preferred":[
         "\u041c\u0443\u043a\u043f\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Mokpo"
     ],
     "name:nld_x_preferred":[
         "Mokpo"
@@ -127,9 +112,6 @@
     ],
     "name:oci_x_preferred":[
         "Mokpo"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06a9\u067e\u0648"
     ],
     "name:pol_x_preferred":[
         "Mokpo"
@@ -325,7 +307,7 @@
         }
     ],
     "wof:id":102026381,
-    "wof:lastmodified":1527637815,
+    "wof:lastmodified":1561791159,
     "wof:name":"Moppo",
     "wof:parent_id":890474687,
     "wof:placetype":"locality",

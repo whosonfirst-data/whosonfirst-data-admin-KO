@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":4373743.34811,
+    "geom:area_square_m":4373743.348107,
     "geom:bbox":"127.021179199,37.5315098612,127.05800319,37.5503430444",
     "geom:latitude":37.540498,
     "geom:longitude":127.039785,
@@ -25,16 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u9df9\u5cf0\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Eungbong-dong"
     ],
     "name:kor_x_preferred":[
         "\uc751\ubd09\ub3d9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Eungbong-dong"
     ],
     "name:swe_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:vie_x_preferred":[
         "Eungbong-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u9df9\u5cf0\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468997,
+    "wof:lastmodified":1561791165,
     "wof:name":"\uc751\ubd09\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

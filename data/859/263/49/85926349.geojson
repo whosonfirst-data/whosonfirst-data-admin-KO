@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":5702740.604418,
+    "geom:area_square_m":5702740.604429,
     "geom:bbox":"127.022133019,37.5053682542,127.054138184,37.5336879756",
     "geom:latitude":37.521182,
     "geom:longitude":127.038829,
@@ -23,11 +23,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:chi_x_preferred":[
-        "\u72ce\u9dd7\u4ead\u6d1e"
-    ],
     "name:eng_x_preferred":[
         "Apgujeong-dong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u06af\u0648\u062c\u0626\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:ido_x_preferred":[
         "Apgujeong"
@@ -44,11 +44,8 @@
     "name:kor_x_variant":[
         "\uc555\uad6c\uc815"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Apgujeong"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u067e\u06af\u0648\u062c\u0626\u0648\u0646\u06af-\u062f\u0648\u0646\u06af"
     ],
     "name:por_x_preferred":[
         "Apgujeong-dong"
@@ -58,6 +55,9 @@
     ],
     "name:swe_x_preferred":[
         "Apgujeong-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u72ce\u9dd7\u4ead\u6d1e"
     ],
     "qs:gn_id":0,
     "qs:id":0,
@@ -110,7 +110,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269292,
+    "wof:lastmodified":1561791168,
     "wof:name":"\uc555\uad6c\uc815\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

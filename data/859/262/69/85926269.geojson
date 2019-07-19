@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Garibong-dong"
+    ],
     "name:eng_x_preferred":[
         "Garibong-dong"
     ],
@@ -81,7 +84,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791167,
+    "wof:lastmodified":1563572786,
     "wof:name":"\uac00\ub9ac\ubd09\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

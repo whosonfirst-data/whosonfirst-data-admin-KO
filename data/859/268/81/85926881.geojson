@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Hyochang-dong"
+    ],
     "name:eng_x_preferred":[
         "Hyochang-dong"
     ],
@@ -80,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791162,
+    "wof:lastmodified":1563572742,
     "wof:name":"\ud6a8\ucc3d\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

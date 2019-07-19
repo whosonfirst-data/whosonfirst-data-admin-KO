@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Banghwa-dong"
     ],
+    "name:jpn_x_preferred":[
+        "\u508d\u82b1\u6d1e"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\ud654\ub3d9"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791167,
+    "wof:lastmodified":1563572785,
     "wof:name":"\ubc29\ud654\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

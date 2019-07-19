@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Yeonnam-dong"
+    ],
     "name:eng_x_preferred":[
         "Yeonnam-dong"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791166,
+    "wof:lastmodified":1563572772,
     "wof:name":"\uc5f0\ub0a8\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

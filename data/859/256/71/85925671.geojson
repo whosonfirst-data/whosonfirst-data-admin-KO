@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5138648.607747,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.827502,37.297104,126.827502,37.297104",
     "geom:latitude":37.297104,
     "geom:longitude":126.827502,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Hosu-dong"
+    ],
     "name:eng_x_preferred":[
         "Hosu-dong"
     ],
@@ -40,11 +43,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026505,
-        1108746407,
-        85673191
+        1108746407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938793,
+    "wof:lastmodified":1563572765,
     "wof:name":"\ud638\uc218\ub3d9",
     "wof:parent_id":102026505,
     "wof:placetype":"neighbourhood",

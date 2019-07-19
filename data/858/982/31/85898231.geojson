@@ -24,7 +24,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Dor\u0107ol"
+    ],
     "name:ces_x_preferred":[
+        "Dor\u0107ol"
+    ],
+    "name:deu_x_preferred":[
         "Dor\u0107ol"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +41,12 @@
     ],
     "name:hbs_x_preferred":[
         "\u0414\u043e\u0440\u045b\u043e\u043b"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e8\u05e6'\u05d5\u05dc"
+    ],
+    "name:ind_x_preferred":[
+        "Dor\u0107ol"
     ],
     "name:ita_x_preferred":[
         "Dor\u0107ol"
@@ -127,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561791168,
+    "wof:lastmodified":1563572806,
     "wof:name":"Dor\u0107ol",
     "wof:parent_id":101914143,
     "wof:placetype":"neighbourhood",

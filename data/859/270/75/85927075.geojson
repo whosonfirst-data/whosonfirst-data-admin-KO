@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Jamwon-dong"
+    ],
     "name:eng_x_preferred":[
         "Jamwon-dong"
     ],
@@ -81,7 +84,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791166,
+    "wof:lastmodified":1563572773,
     "wof:name":"\uc7a0\uc6d0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Ahyeon-dong"
+    ],
     "name:eng_x_preferred":[
         "Ahyeon-dong"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791167,
+    "wof:lastmodified":1563572787,
     "wof:name":"\uc544\ud604\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":2610341.68694,
+    "geom:area_square_m":2610341.686936,
     "geom:bbox":"127.095336914,37.4849738888,127.11730957,37.5067785095",
     "geom:latitude":37.495052,
     "geom:longitude":127.107965,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Seokchon-dong"
+    ],
     "name:eng_x_preferred":[
         "Seokchon-dong"
     ],
@@ -40,6 +43,9 @@
     "name:unk_x_variant":[
         "Seokchon-dong",
         "\uc11d\ucd0c\ub3d9"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6751\u6d1e"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -101,7 +107,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468995,
+    "wof:lastmodified":1563572777,
     "wof:name":"\uc11d\ucd0c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

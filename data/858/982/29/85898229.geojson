@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15146929.257613,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.40494,44.785132,20.40494,44.785132",
     "geom:latitude":44.785132,
     "geom:longitude":20.40494,
@@ -36,6 +36,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03bf\u03c5\u03ba\u03b1\u03c1\u03af\u03c4\u03c3\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "\u010cukarica"
+    ],
     "name:fra_x_preferred":[
         "\u010cukarica"
     ],
@@ -45,13 +48,40 @@
     "name:ita_x_preferred":[
         "\u010cukarica"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30ab\u30ea\u30c4\u30a1"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10e3\u10d9\u10d0\u10e0\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10e3\u10d9\u10d0\u10e0\u10d8\u10ea\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd94\uce74\ub9ac\ucc28"
     ],
     "name:nld_x_preferred":[
         "\u010cukarica"
     ],
+    "name:nob_x_preferred":[
+        "\u010cukarica"
+    ],
+    "name:pol_x_preferred":[
+        "Czukarica"
+    ],
+    "name:por_x_preferred":[
+        "\u010cukarica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u0440\u0438\u0446\u0430"
+    ],
     "name:spa_x_preferred":[
+        "\u010cukarica"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cukarica"
+    ],
+    "name:tur_x_preferred":[
         "\u010cukarica"
     ],
     "name:und_x_colloquial":[
@@ -62,6 +92,9 @@
     ],
     "name:unk_x_variant":[
         "\u010cukarica"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u5361\u91cc\u5bdf"
     ],
     "qs:gn_adm0_cc":"RS",
     "qs:gn_id":0,
@@ -91,12 +124,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":722,
     "wof:belongsto":[
-        85688279,
         102191581,
         1108809881,
         85633755,
         404228357,
-        101914149
+        101914149,
+        85688279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932034,
+    "wof:lastmodified":1563572805,
     "wof:name":"\u010cukarica",
     "wof:parent_id":101914149,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Il-dong"
+    ],
     "name:eng_x_preferred":[
         "Sangrok-gu"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791165,
+    "wof:lastmodified":1563572764,
     "wof:name":"\uc774\ub3d9",
     "wof:parent_id":102026505,
     "wof:placetype":"neighbourhood",

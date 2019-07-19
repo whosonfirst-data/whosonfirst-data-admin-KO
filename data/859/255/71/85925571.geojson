@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3747744.200048,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.965755,37.37548,126.965755,37.37548",
     "geom:latitude":37.37548,
     "geom:longitude":126.965755,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Gwiin-dong"
+    ],
     "name:eng_x_preferred":[
         "Gwiin-dong"
     ],
@@ -51,11 +54,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026501,
-        1108746411,
-        85673191
+        1108746411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +84,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938777,
+    "wof:lastmodified":1563572803,
     "wof:name":"\uadc0\uc778\ub3d9",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",

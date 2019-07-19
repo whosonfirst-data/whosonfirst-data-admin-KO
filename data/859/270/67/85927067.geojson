@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Namhyeon-dong"
+    ],
     "name:eng_x_preferred":[
         "Namhyeon-dong"
     ],
@@ -35,6 +38,12 @@
     ],
     "name:swe_x_preferred":[
         "Namhyeon-dong"
+    ],
+    "name:vie_x_preferred":[
+        "Namhyeon-dong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5cf4\u6d1e"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -71,7 +80,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791165,
+    "wof:lastmodified":1563572772,
     "wof:name":"\ub0a8\ud604\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

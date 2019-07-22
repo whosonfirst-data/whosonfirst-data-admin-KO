@@ -25,8 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:dan_x_preferred":[
+        "Hyehwa-dong"
+    ],
     "name:eng_x_preferred":[
         "Hyehwa-dong"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0565\u0570\u057e\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u6075\u5316\u6d1e"
@@ -46,6 +52,9 @@
     "name:unk_x_variant":[
         "Hyehwa-dong",
         "\ud61c\ud654\ub3d9"
+    ],
+    "name:vie_x_preferred":[
+        "Hyehwa-dong"
     ],
     "name:zho_x_preferred":[
         "\u60e0\u5316\u6d1e"
@@ -110,7 +119,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791163,
+    "wof:lastmodified":1563572743,
     "wof:name":"\ud61c\ud654\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

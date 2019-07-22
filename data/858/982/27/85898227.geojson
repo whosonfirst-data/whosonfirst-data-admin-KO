@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Banjica"
+    ],
     "name:ces_x_preferred":[
         "Banjica"
     ],
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561791168,
+    "wof:lastmodified":1563572804,
     "wof:name":"Banjica",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

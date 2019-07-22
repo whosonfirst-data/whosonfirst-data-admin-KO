@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Mokpo"
     ],
+    "name:ceb_x_preferred":[
+        "Moppo"
+    ],
     "name:ces_x_preferred":[
         "Mokpcho"
     ],
@@ -47,8 +50,14 @@
     "name:eng_x_preferred":[
         "Mokpo"
     ],
+    "name:epo_x_preferred":[
+        "Mokpo"
+    ],
     "name:est_x_preferred":[
         "Mokpo"
+    ],
+    "name:est_x_variant":[
+        "Mokp'o"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u06a9\u067e\u0648"
@@ -67,6 +76,12 @@
     ],
     "name:hun_x_preferred":[
         "Mokhpo"
+    ],
+    "name:hun_x_variant":[
+        "Mokpho"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056f\u0583\u0578"
     ],
     "name:ind_x_preferred":[
         "Mokpo"
@@ -101,6 +116,9 @@
     "name:msa_x_preferred":[
         "Mokpo"
     ],
+    "name:nan_x_preferred":[
+        "Mokpo Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Mokpo"
     ],
@@ -132,6 +150,9 @@
         "Mokpo"
     ],
     "name:swe_x_preferred":[
+        "Mokpo"
+    ],
+    "name:szl_x_preferred":[
         "Mokpo"
     ],
     "name:tam_x_preferred":[
@@ -307,7 +328,7 @@
         }
     ],
     "wof:id":102026381,
-    "wof:lastmodified":1561791159,
+    "wof:lastmodified":1563572726,
     "wof:name":"Moppo",
     "wof:parent_id":890474687,
     "wof:placetype":"locality",

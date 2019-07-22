@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1278807.939977,
+    "geom:area_square_m":1278807.939976,
     "geom:bbox":"127.012939453,37.5537327693,127.030792236,37.5663512171",
     "geom:latitude":37.560907,
     "geom:longitude":127.020644,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Hwanghak-dong"
+    ],
     "name:eng_x_preferred":[
         "Hwanghak-dong"
     ],
@@ -80,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468999,
+    "wof:lastmodified":1563572744,
     "wof:name":"\ud669\ud559\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

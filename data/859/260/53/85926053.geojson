@@ -25,8 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Hangangno-dong"
+    ],
     "name:eng_x_preferred":[
         "Hangangno 2-ga"
+    ],
+    "name:eng_x_variant":[
+        "Hangangno-dong"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0646\u06af\u0627\u0646\u06af\u0646\u0648-\u062f\u0648\u0646\u06af"
@@ -86,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791164,
+    "wof:lastmodified":1563572756,
     "wof:name":"\ud55c\uac15\ub85c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

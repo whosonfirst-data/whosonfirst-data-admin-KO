@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Mugeo-dong"
+    ],
     "name:eng_x_preferred":[
         "Mugeo-dong"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791162,
+    "wof:lastmodified":1563572740,
     "wof:name":"\ubb34\uac70\ub3d9",
     "wof:parent_id":102026291,
     "wof:placetype":"neighbourhood",

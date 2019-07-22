@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Ihwa-dong"
+    ],
     "name:eng_x_preferred":[
         "Ihwa-dong"
     ],
@@ -38,6 +41,9 @@
         "Ihwa-dong"
     ],
     "name:sco_x_preferred":[
+        "Ihwa-dong"
+    ],
+    "name:swe_x_preferred":[
         "Ihwa-dong"
     ],
     "name:tha_x_preferred":[
@@ -89,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791163,
+    "wof:lastmodified":1563572743,
     "wof:name":"\uc774\ud654\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

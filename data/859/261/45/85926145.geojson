@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Mia-dong"
+    ],
     "name:eng_x_preferred":[
         "Mia-dong"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791163,
+    "wof:lastmodified":1563572751,
     "wof:name":"\ubbf8\uc544\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

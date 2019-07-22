@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Changjeon-dong"
+    ],
     "name:eng_x_preferred":[
         "Changjeon-dong"
     ],
@@ -77,7 +80,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468998,
+    "wof:lastmodified":1563572771,
     "wof:name":"\ucc3d\uc804\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

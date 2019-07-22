@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000469,
-    "geom:area_square_m":4606010.773366,
+    "geom:area_square_m":4606010.773368,
     "geom:bbox":"127.122802734,37.481396489,127.153015137,37.5095743547",
     "geom:latitude":37.496068,
     "geom:longitude":127.14043,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ceb_x_preferred":[
+        "Ogeum-dong"
+    ],
     "name:eng_x_preferred":[
         "Ogeum-dong"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1514468996,
+    "wof:lastmodified":1563572775,
     "wof:name":"\uc624\uae08\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

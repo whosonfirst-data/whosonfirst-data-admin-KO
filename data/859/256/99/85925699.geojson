@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Yongsin-dong"
+    ],
     "name:eng_x_preferred":[
         "Yongdu-dong"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791165,
+    "wof:lastmodified":1563572764,
     "wof:name":"\ucc3d\ub989\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

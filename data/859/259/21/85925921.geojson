@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6976564.633541,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.116078,35.813743,127.116078,35.813743",
     "geom:latitude":35.813743,
     "geom:longitude":127.116078,
@@ -25,15 +25,39 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:azb_x_preferred":[
+        "\u0628\u0632\u0644\u062f\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Bezledy"
+    ],
+    "name:deu_x_preferred":[
+        "Bezledy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u0644\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bezledy"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ud654\uc0b02\ub3d9"
     ],
     "name:kor_x_variant":[
         "\uc911\ud654\uc0b02"
     ],
+    "name:nld_x_preferred":[
+        "Bezledy"
+    ],
+    "name:pol_x_preferred":[
+        "Bezledy"
+    ],
     "name:unk_x_variant":[
         "Chunghwasani-dong",
         "\uc911\ud654\uc0b02\ub3d9"
+    ],
+    "name:vie_x_preferred":[
+        "Bezledy"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -65,11 +89,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673195,
         102191569,
         85632231,
         102026471,
-        1108746469,
-        85673195
+        1108746469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +119,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938833,
+    "wof:lastmodified":1564184725,
     "wof:name":"\uc911\ud654\uc0b02\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4653283.254064,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.15613,35.812698,127.15613,35.812698",
     "geom:latitude":35.812698,
     "geom:longitude":127.15613,
@@ -25,12 +25,36 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:cat_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:ceb_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:deu_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
     "name:eng_x_preferred":[
         "Wansan-gu"
     ],
     "name:eng_x_variant":[
         "Wansangu",
         "Wansan-gu"
+    ],
+    "name:eus_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:fra_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:hun_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:ind_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:ita_x_preferred":[
+        "Lachapelle-aux-Pots"
     ],
     "name:kor_x_preferred":[
         "\ud48d\ub0a8\ub3d9"
@@ -47,9 +71,66 @@
         "\ud48d\ub0a8\ub3d92\uac00",
         "\ud48d\ub0a8\ub3d93\uac00"
     ],
+    "name:lat_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:mlg_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:msa_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:nld_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:oci_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:pms_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:pol_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:por_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:ron_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:slk_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:spa_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:swe_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0448\u0430\u043f\u0435\u043b\u044c-\u043e-\u041f\u043e"
+    ],
     "name:unk_x_variant":[
         "\ubd81\ub18d",
         "\ud48d\ub0a8\ub3d9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0634\u0627\u067e\u06cc\u0644-\u0622-\u067e\u0648\u0679\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:vie_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:vol_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:war_x_preferred":[
+        "Lachapelle-aux-Pots"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6c99\u4f69\u5c14\u5965\u6ce2\u7279"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -82,11 +163,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673195,
         102191569,
         85632231,
         102026471,
-        1108746469,
-        85673195
+        1108746469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +193,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938832,
+    "wof:lastmodified":1564184726,
     "wof:name":"\ud48d\ub0a8\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

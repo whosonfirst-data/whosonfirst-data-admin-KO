@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8008291.386696,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.135736,35.855747,127.135736,35.855747",
     "geom:latitude":35.855747,
     "geom:longitude":127.135736,
@@ -25,16 +25,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:jpn_x_preferred":[
+        "\u98db\u9a28\u7d30\u6c5f\u99c5"
+    ],
     "name:kor_x_preferred":[
         "\uc1a1\ucc9c1\ub3d9"
     ],
     "name:kor_x_variant":[
         "\uc1a1\ucc9c1",
-        "\uc1a1\ucc9c\ub3d9"
+        "\uc1a1\ucc9c\ub3d9",
+        "\ud788\ub2e4\ud638\uc18c\uc5d0 \uc5ed"
+    ],
+    "name:mya_x_preferred":[
+        "\u101f\u102d\u1012\u2212 \u101f\u102d\u102f\u1006\u102d\u102f\u1021\u1032\u1018\u1030\u1010\u102c"
     ],
     "name:unk_x_variant":[
         "\uc1a1\ucd0c\ub3d9",
         "\uc1a1\ucc9c1\ub3d9"
+    ],
+    "name:zho_x_preferred":[
+        "\u98db\u9a52\u7d30\u6c5f\u7ad9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -66,11 +76,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673195,
         102191569,
         85632231,
         102026471,
-        1108746469,
-        85673195
+        1108746469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +106,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938838,
+    "wof:lastmodified":1564184725,
     "wof:name":"\uc1a1\ucc9c1\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

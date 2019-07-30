@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4759884.37517,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.143021,35.815288,127.143021,35.815288",
     "geom:latitude":35.815288,
     "geom:longitude":127.143021,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Carwitzer See"
+    ],
     "name:kor_x_preferred":[
         "\uc911\uc559\ub3d9"
     ],
@@ -36,6 +39,9 @@
         "\ub2e4\uac00\ub3d93\uac00",
         "\ub2e4\uac00\ub3d94\uac00",
         "\uc911\uc559\ub3d94\uac00"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Carwitzer"
     ],
     "name:unk_x_variant":[
         "\uc911\ubc29\ub3d9",
@@ -70,11 +76,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673195,
         102191569,
         85632231,
         102026471,
-        1108746469,
-        85673195
+        1108746469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938831,
+    "wof:lastmodified":1564184725,
     "wof:name":"\uc911\uc559\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

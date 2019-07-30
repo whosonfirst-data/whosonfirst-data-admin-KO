@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4978872.949726,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.387354,36.347743,127.387354,36.347743",
     "geom:latitude":36.347743,
     "geom:longitude":127.387354,
@@ -27,6 +27,9 @@
     "mz:tier_locality":2,
     "name:kor_x_preferred":[
         "\ub454\uc0b0\ub3d9"
+    ],
+    "name:nld_x_preferred":[
+        "Station Broome"
     ],
     "name:unk_x_variant":[
         "Tunsan-dong",
@@ -62,11 +65,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85673207,
         102191569,
         85632231,
         102026311,
-        1108746515,
-        85673207
+        1108746515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938907,
+    "wof:lastmodified":1564184732,
     "wof:name":"\ub454\uc0b0\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

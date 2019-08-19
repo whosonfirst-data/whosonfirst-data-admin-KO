@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.453694,44.818877,20.453694,44.818877",
-    "geom:latitude":44.818877,
-    "geom:longitude":20.453694,
+    "geom:bbox":"20.461018,44.82322,20.461018,44.82322",
+    "geom:latitude":44.82322,
+    "geom:longitude":20.461018,
     "gn:id":"",
     "iso:country":"KO",
-    "lbl:latitude":44.818877,
-    "lbl:longitude":20.453694,
+    "lbl:latitude":44.82322,
+    "lbl:longitude":20.461018,
     "mps:latitude":44.825072,
     "mps:longitude":20.474627,
     "mz:hierarchy_label":0,
@@ -21,9 +21,11 @@
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:max_zoom":17.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"https://en.wikipedia.org/wiki/Dor%C4%87ol",
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ceb_x_preferred":[
         "Dor\u0107ol"
     ],
@@ -58,6 +60,12 @@
         "Dor\u0107ol"
     ],
     "name:spa_x_preferred":[
+        "Dor\u0107ol"
+    ],
+    "name:srp_cyr":[
+        "\u0414\u043e\u0440\u045b\u043e\u043b"
+    ],
+    "name:srp_lat":[
         "Dor\u0107ol"
     ],
     "name:srp_x_preferred":[
@@ -98,12 +106,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":532697,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":44.823217,
     "wd:longitude":20.460448,
     "wd:wordcount":1301,
@@ -123,7 +132,7 @@
         "wd:id":"Q2396145"
     },
     "wof:country":"KO",
-    "wof:geomhash":"b0d1ee2daccd94be8df3c00be446e1c7",
+    "wof:geomhash":"a256296674f35ec1f9d99c0c93d0d286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563572806,
+    "wof:lastmodified":1566247517,
     "wof:name":"Dor\u0107ol",
     "wof:parent_id":101914143,
     "wof:placetype":"neighbourhood",
@@ -149,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.453694,
-    44.818877,
-    20.453694,
-    44.818877
+    20.461018,
+    44.82322,
+    20.461018,
+    44.82322
 ],
-  "geometry": {"coordinates":[20.453694,44.818877],"type":"Point"}
+  "geometry": {"coordinates":[20.461018,44.82322],"type":"Point"}
 }

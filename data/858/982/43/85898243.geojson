@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.466324,44.801516,20.466324,44.801516",
-    "geom:latitude":44.801516,
-    "geom:longitude":20.466324,
+    "geom:bbox":"20.472332,44.801597,20.472332,44.801597",
+    "geom:latitude":44.801597,
+    "geom:longitude":20.472332,
     "gn:id":"",
     "iso:country":"KO",
-    "lbl:latitude":44.801516,
-    "lbl:longitude":20.466324,
+    "lbl:latitude":44.801597,
+    "lbl:longitude":20.472332,
     "mps:latitude":44.799206,
     "mps:longitude":20.467682,
     "mz:hierarchy_label":0,
@@ -20,10 +20,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u0447\u0430\u0440"
     ],
@@ -90,6 +91,12 @@
     "name:spa_x_preferred":[
         "Vra\u010dar"
     ],
+    "name:srp_cyr":[
+        "\u0412\u0440\u0430\u0447\u0430\u0440"
+    ],
+    "name:srp_lat":[
+        "Vra\u010dar"
+    ],
     "name:tur_x_preferred":[
         "Vra\u010dar"
     ],
@@ -125,12 +132,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":532697,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1459,
     "wof:belongsto":[
         102191581,
@@ -148,7 +156,7 @@
         "wd:id":"Q1006522"
     },
     "wof:country":"KO",
-    "wof:geomhash":"23dd9456240b47351c793dbf425332aa",
+    "wof:geomhash":"15bc7cc2ca308598f8ca8176b376a72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563572805,
+    "wof:lastmodified":1566247517,
     "wof:name":"Vra\u010dar",
     "wof:parent_id":101914161,
     "wof:placetype":"neighbourhood",
@@ -174,10 +182,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.466324,
-    44.801516,
-    20.466324,
-    44.801516
+    20.472332,
+    44.801597,
+    20.472332,
+    44.801597
 ],
-  "geometry": {"coordinates":[20.466324,44.801516],"type":"Point"}
+  "geometry": {"coordinates":[20.472332,44.801597],"type":"Point"}
 }

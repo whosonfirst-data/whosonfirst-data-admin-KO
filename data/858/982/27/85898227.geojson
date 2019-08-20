@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.485182,44.759511,20.485182,44.759511",
-    "geom:latitude":44.759511,
-    "geom:longitude":20.485182,
+    "geom:bbox":"20.471939,44.759453,20.471939,44.759453",
+    "geom:latitude":44.759453,
+    "geom:longitude":20.471939,
     "iso:country":"KO",
-    "lbl:latitude":44.759511,
-    "lbl:longitude":20.485182,
+    "lbl:latitude":44.759453,
+    "lbl:longitude":20.471939,
     "mps:latitude":44.75637,
     "mps:longitude":20.481475,
     "mz:hierarchy_label":0,
@@ -21,8 +21,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:ceb_x_preferred":[
         "Banjica"
     ],
@@ -46,6 +47,9 @@
     ],
     "name:pol_x_preferred":[
         "Banjica"
+    ],
+    "name:srp_cyr_x_preferred":[
+        "\u0411\u0430\u045a\u0438\u0446\u0430"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u045a\u0438\u0446\u0430"
@@ -84,12 +88,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":532697,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":44.758889,
     "wd:longitude":20.484444,
     "wd:wordcount":650,
@@ -111,7 +116,7 @@
         "wk:page":"Banjica"
     },
     "wof:country":"KO",
-    "wof:geomhash":"6d8f500e95a593e9fcd30f63fdd6e9ac",
+    "wof:geomhash":"a6547e027d314211535b084db55de183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563572804,
+    "wof:lastmodified":1566326133,
     "wof:name":"Banjica",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",
@@ -137,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.485182,
-    44.759511,
-    20.485182,
-    44.759511
+    20.471939,
+    44.759453,
+    20.471939,
+    44.759453
 ],
-  "geometry": {"coordinates":[20.485182,44.759511],"type":"Point"}
+  "geometry": {"coordinates":[20.471939,44.759453],"type":"Point"}
 }

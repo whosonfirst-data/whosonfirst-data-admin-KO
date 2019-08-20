@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.433362,44.791502,20.433362,44.791502",
-    "geom:latitude":44.791502,
-    "geom:longitude":20.433362,
+    "geom:bbox":"20.438169,44.791258,20.438169,44.791258",
+    "geom:latitude":44.791258,
+    "geom:longitude":20.438169,
     "iso:country":"KO",
-    "lbl:latitude":44.791502,
-    "lbl:longitude":20.433362,
+    "lbl:latitude":44.791258,
+    "lbl:longitude":20.438169,
     "mps:latitude":44.771821,
     "mps:longitude":20.440197,
     "mz:hierarchy_label":0,
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bos_x_preferred":[
         "Senjak"
     ],
@@ -74,11 +75,12 @@
     "qs:woe_lau":0,
     "qs:woe_local":532697,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:latitude":44.792328,
     "wd:longitude":20.438669,
     "wd:wordcount":897,
@@ -96,7 +98,7 @@
         "wd:id":"Q3183106"
     },
     "wof:country":"KO",
-    "wof:geomhash":"2e85300dfd28d5d2348a4cb4d7916a05",
+    "wof:geomhash":"e581a651eff408d8498fe7e53c1fdffa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561791168,
+    "wof:lastmodified":1566326138,
     "wof:name":"Senjak",
     "wof:parent_id":101914163,
     "wof:placetype":"neighbourhood",
@@ -122,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.433362,
-    44.791502,
-    20.433362,
-    44.791502
+    20.438169,
+    44.791258,
+    20.438169,
+    44.791258
 ],
-  "geometry": {"coordinates":[20.433362,44.791502],"type":"Point"}
+  "geometry": {"coordinates":[20.438169,44.791258],"type":"Point"}
 }

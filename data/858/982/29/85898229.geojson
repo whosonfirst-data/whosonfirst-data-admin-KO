@@ -6,13 +6,13 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.40494,44.785132,20.40494,44.785132",
-    "geom:latitude":44.785132,
-    "geom:longitude":20.40494,
+    "geom:bbox":"20.41255,44.780746,20.41255,44.780746",
+    "geom:latitude":44.780746,
+    "geom:longitude":20.41255,
     "gn:id":"",
     "iso:country":"KO",
-    "lbl:latitude":44.785132,
-    "lbl:longitude":20.40494,
+    "lbl:latitude":44.780746,
+    "lbl:longitude":20.41255,
     "mps:latitude":44.776874,
     "mps:longitude":20.414492,
     "mz:hierarchy_label":0,
@@ -22,8 +22,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bos_x_preferred":[
         "\u010cukarica"
     ],
@@ -78,6 +79,12 @@
     "name:spa_x_preferred":[
         "\u010cukarica"
     ],
+    "name:srp_cyr_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:srp_lat_x_preferred":[
+        "\u010cukarica"
+    ],
     "name:swe_x_preferred":[
         "\u010cukarica"
     ],
@@ -116,12 +123,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":532697,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":722,
     "wof:belongsto":[
         102191581,
@@ -139,7 +147,7 @@
         "wd:id":"Q341728"
     },
     "wof:country":"KO",
-    "wof:geomhash":"b7c8e64f26d7d53ca999719ba5506bd1",
+    "wof:geomhash":"9e0b095ee9fbd0078baf4fd746cbc65d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563572805,
+    "wof:lastmodified":1566326137,
     "wof:name":"\u010cukarica",
     "wof:parent_id":101914149,
     "wof:placetype":"neighbourhood",
@@ -165,10 +173,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.40494,
-    44.785132,
-    20.40494,
-    44.785132
+    20.41255,
+    44.780746,
+    20.41255,
+    44.780746
 ],
-  "geometry": {"coordinates":[20.40494,44.785132],"type":"Point"}
+  "geometry": {"coordinates":[20.41255,44.780746],"type":"Point"}
 }

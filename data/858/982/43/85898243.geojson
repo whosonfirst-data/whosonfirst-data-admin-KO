@@ -91,10 +91,10 @@
     "name:spa_x_preferred":[
         "Vra\u010dar"
     ],
-    "name:srp_cyr":[
+    "name:srp_cyr_x_preferred":[
         "\u0412\u0440\u0430\u0447\u0430\u0440"
     ],
-    "name:srp_lat":[
+    "name:srp_lat_x_preferred":[
         "Vra\u010dar"
     ],
     "name:tur_x_preferred":[
@@ -172,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247517,
+    "wof:lastmodified":1566326138,
     "wof:name":"Vra\u010dar",
     "wof:parent_id":101914161,
     "wof:placetype":"neighbourhood",

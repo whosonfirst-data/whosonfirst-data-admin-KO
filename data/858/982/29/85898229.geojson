@@ -79,11 +79,11 @@
     "name:spa_x_preferred":[
         "\u010cukarica"
     ],
-    "name:srp.lat":[
-        "\u010cukarica"
-    ],
-    "name:srp_cyr":[
+    "name:srp_cyr_x_preferred":[
         "\u0427\u0443\u043a\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:srp_lat_x_preferred":[
+        "\u010cukarica"
     ],
     "name:swe_x_preferred":[
         "\u010cukarica"
@@ -163,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247517,
+    "wof:lastmodified":1566326137,
     "wof:name":"\u010cukarica",
     "wof:parent_id":101914149,
     "wof:placetype":"neighbourhood",

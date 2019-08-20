@@ -62,10 +62,10 @@
     "name:spa_x_preferred":[
         "Dor\u0107ol"
     ],
-    "name:srp_cyr":[
+    "name:srp_cyr_x_preferred":[
         "\u0414\u043e\u0440\u045b\u043e\u043b"
     ],
-    "name:srp_lat":[
+    "name:srp_lat_x_preferred":[
         "Dor\u0107ol"
     ],
     "name:srp_x_preferred":[
@@ -148,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247517,
+    "wof:lastmodified":1566326136,
     "wof:name":"Dor\u0107ol",
     "wof:parent_id":101914143,
     "wof:placetype":"neighbourhood",

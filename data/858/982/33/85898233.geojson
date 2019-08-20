@@ -28,10 +28,10 @@
     "name:eng_x_variant":[
         "Du\u00b5anovac"
     ],
-    "name:srp.cyr":[
+    "name:srp_cyr_x_preferred":[
         "\u0414\u0443\u0448\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
-    "name:srp.lat":[
+    "name:srp_lat_x_preferred":[
         "Du\u0161anovac"
     ],
     "name:und_x_colloquial":[
@@ -101,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247516,
+    "wof:lastmodified":1566326134,
     "wof:name":"Du\u00b5anovac",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

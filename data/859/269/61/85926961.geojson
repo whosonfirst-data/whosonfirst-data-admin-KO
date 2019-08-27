@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2869198.578894,
+    "geom:area_square_m":2869198.578897,
     "geom:bbox":"126.897583008,37.5707051787,126.919555664,37.5902950114",
     "geom:latitude":37.580376,
     "geom:longitude":126.908872,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.578989,
     "lbl:longitude":126.906815,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.580272,
     "mps:longitude":126.90908,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:kor_x_variant":[
         "\uc575\uc0b0\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Aengsandong",
-        "\uc99d\uc0b0\ub3d9"
+    "name:und_x_variant":[
+        "Aengsandong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6812840,
         "gp:id":28995031,
-        "qs:id":1086486,
         "qs_pg:id":1086486
     },
     "wof:country":"KO",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497314010,
+    "wof:lastmodified":1566581655,
     "wof:name":"\uc99d\uc0b0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

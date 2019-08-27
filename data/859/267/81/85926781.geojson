@@ -12,8 +12,10 @@
     "gn:latitude":36.3381,
     "gn:longitude":127.4235,
     "iso:country":"KO",
+    "lbl:bbox":"127.424345,36.326795,127.434345,36.336795",
     "lbl:latitude":36.331795,
     "lbl:longitude":127.429345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.336389,
     "mps:longitude":127.432486,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:nld_x_preferred":[
         "Station Cartsdyke"
     ],
-    "name:unk_x_variant":[
-        "Sams\u014fng-dong",
-        "\uc0bc\uc131\ub3d9"
+    "name:und_x_variant":[
+        "Sams\u014fng-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673207,
         102191569,
@@ -75,7 +76,6 @@
     "wof:concordances":{
         "gn:id":6888838,
         "gp:id":28835309,
-        "qs:id":1086475,
         "qs_pg:id":1086475,
         "wk:page":"Cartsdyke railway station"
     },
@@ -95,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1564184731,
+    "wof:lastmodified":1566581650,
     "wof:name":"\uc0bc\uc131\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

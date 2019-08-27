@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.469101,
     "lbl:longitude":126.958912,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.465924,
     "mps:longitude":126.957041,
     "mz:hierarchy_label":1,
@@ -40,9 +41,8 @@
     "name:msa_x_preferred":[
         "Bongcheon-dong"
     ],
-    "name:unk_x_variant":[
-        "Pongch\u2019\u014fn-dong",
-        "\ubd09\ucc9c\ub3d9"
+    "name:und_x_variant":[
+        "Pongch\u2019\u014fn-dong"
     ],
     "name:vie_x_preferred":[
         "Bongcheon-dong"
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -66,7 +66,6 @@
     "wof:concordances":{
         "gn:id":6573638,
         "gp:id":28835139,
-        "qs:id":1086470,
         "qs_pg:id":1086470,
         "wd:id":"Q2648219"
     },
@@ -86,7 +85,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791168,
+    "wof:lastmodified":1566581679,
     "wof:name":"\ubd09\ucc9c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

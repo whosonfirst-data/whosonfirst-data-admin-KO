@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":884794.203937,
+    "geom:area_square_m":884794.203936,
     "geom:bbox":"127.110697553,37.4908837544,127.123921612,37.5024206569",
     "geom:latitude":37.497177,
     "geom:longitude":127.117505,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.497363,
     "lbl:longitude":127.118087,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.497326,
     "mps:longitude":127.117504,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:kor_x_preferred":[
         "\uc1a1\ud30c\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Songpa-dong",
-        "\uc1a1\ud30c\ub3d9"
+    "name:und_x_variant":[
+        "Songpa-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6573518,
         "gp:id":28835158,
-        "qs:id":11426,
         "qs_pg:id":11426
     },
     "wof:country":"KO",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497310646,
+    "wof:lastmodified":1566581679,
     "wof:name":"\uc1a1\ud30c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

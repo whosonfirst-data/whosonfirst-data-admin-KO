@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6537037.569218,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.772233,37.65565,126.772233,37.65565",
     "geom:latitude":37.65565,
     "geom:longitude":126.772233,
     "gn:id":"",
     "iso:country":"KO",
+    "lbl:bbox":"126.767233,37.65065,126.777233,37.66065",
     "lbl:latitude":37.65565,
     "lbl:longitude":126.772233,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.648101,
     "mps:longitude":126.768417,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:kor_x_variant":[
         "\uc7a5\ud56d2"
-    ],
-    "name:unk_x_variant":[
-        "\uc7a5\ud56d2\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -61,18 +60,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026411,
-        1108746465,
-        85673191
+        1108746465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28806920,
-        "qs:id":1293290,
         "qs_pg:id":1293290
     },
     "wof:country":"KO",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938807,
+    "wof:lastmodified":1566581635,
     "wof:name":"\uc7a5\ud56d2\ub3d9",
     "wof:parent_id":102026411,
     "wof:placetype":"neighbourhood",

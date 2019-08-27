@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.609627,
     "lbl:longitude":127.022637,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.612054,
     "mps:longitude":127.026843,
     "mz:hierarchy_label":1,
@@ -49,9 +50,8 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e21\u0e35\u0e2d\u0e32"
     ],
-    "name:unk_x_variant":[
-        "Mia-ri",
-        "\ubbf8\uc544\ub3d9"
+    "name:und_x_variant":[
+        "Mia-ri"
     ],
     "name:vie_x_preferred":[
         "Mia-dong"
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":1841209,
         "gp:id":28835084,
-        "qs:id":772294,
         "qs_pg:id":772294,
         "wd:id":"Q2647535"
     },
@@ -95,7 +94,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572751,
+    "wof:lastmodified":1566581645,
     "wof:name":"\ubbf8\uc544\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

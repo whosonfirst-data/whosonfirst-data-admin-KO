@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000919,
-    "geom:area_square_m":9016580.222087,
+    "geom:area_square_m":9016580.222074,
     "geom:bbox":"126.851877441,37.4365160161,126.896287132,37.474858085",
     "geom:latitude":37.455713,
     "geom:longitude":126.872574,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.463702,
     "lbl:longitude":126.882181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.459582,
     "mps:longitude":126.876613,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:kor_x_variant":[
         "\ub9c8\uc0b0\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Masandong",
-        "\uac00\uc0b0\ub3d9"
+    "name:und_x_variant":[
+        "Masandong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6364407,
         "gp:id":28995051,
-        "qs:id":230198,
         "qs_pg:id":230198
     },
     "wof:country":"KO",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497315192,
+    "wof:lastmodified":1566581662,
     "wof:name":"\uac00\uc0b0\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

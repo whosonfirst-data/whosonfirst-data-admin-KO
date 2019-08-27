@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":5669567.997965,
+    "geom:area_square_m":5669567.997962,
     "geom:bbox":"127.088121023,37.6251088215,127.119069824,37.6568593044",
     "geom:latitude":37.640047,
     "geom:longitude":127.105245,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.636453,
     "lbl:longitude":127.101598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.639189,
     "mps:longitude":127.10554,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:kor_x_variant":[
         "\uc911\uacc4\ubcf8"
     ],
-    "name:unk_x_variant":[
-        "Chunggyebon-dong",
-        "\uc911\uacc4\ubcf8\ub3d9"
+    "name:und_x_variant":[
+        "Chunggyebon-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6801545,
         "gp:id":28995027,
-        "qs:id":260176,
         "qs_pg:id":260176
     },
     "wof:country":"KO",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497310104,
+    "wof:lastmodified":1566581656,
     "wof:name":"\uc911\uacc4\ubcf8\ub3d9",
     "wof:parent_id":102026525,
     "wof:placetype":"neighbourhood",

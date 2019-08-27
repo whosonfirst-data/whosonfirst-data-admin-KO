@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6214032.7893,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.872458,35.142288,126.872458,35.142288",
     "geom:latitude":35.142288,
     "geom:longitude":126.872458,
     "gn:latitude":35.13581,
     "gn:longitude":126.87042,
     "iso:country":"KO",
+    "lbl:bbox":"126.867458,35.137288,126.877458,35.147288",
     "lbl:latitude":35.142288,
     "lbl:longitude":126.872458,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.131264,
     "mps:longitude":126.878415,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\ud654\uc815\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Hwajeongdong",
-        "\ud654\uc815\ub3d9"
+    "name:und_x_variant":[
+        "Hwajeongdong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -61,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673199,
         102191569,
         85632231,
         102026391,
         890472273,
-        85673199,
         85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1981364,
         "gp:id":28835291,
-        "qs:id":992970,
         "qs_pg:id":992970
     },
     "wof:country":"KO",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938904,
+    "wof:lastmodified":1566581649,
     "wof:name":"\ud654\uc815\ub3d9",
     "wof:parent_id":102026391,
     "wof:placetype":"neighbourhood",

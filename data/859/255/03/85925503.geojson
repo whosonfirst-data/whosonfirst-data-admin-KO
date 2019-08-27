@@ -12,8 +12,10 @@
     "gn:latitude":37.35944,
     "gn:longitude":127.0975,
     "iso:country":"KO",
+    "lbl:bbox":"127.089729,37.339965,127.099729,37.349965",
     "lbl:latitude":37.344965,
     "lbl:longitude":127.094729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.346758,
     "mps:longitude":127.087244,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
         "\uae08\uace12",
         "\ub3d9\uc6d0\ub3d9",
         "\uae08\uace1\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "\uae08\uace1\ub3d9",
-        "\uae08\uace12\ub3d9"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u8c37\u6d1e"
@@ -75,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":6572735,
         "gp:id":28806739,
-        "qs:id":321284,
         "qs_pg:id":321284,
         "wd:id":"Q5554848",
         "wk:page":"Geumgok-dong, Seongnam"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572800,
+    "wof:lastmodified":1566581683,
     "wof:name":"\uae08\uace12\ub3d9",
     "wof:parent_id":102026263,
     "wof:placetype":"neighbourhood",

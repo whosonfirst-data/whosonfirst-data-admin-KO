@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":4363798.876791,
+    "geom:area_square_m":4363798.876784,
     "geom:bbox":"126.963475488,37.4661385388,126.990966797,37.4937041886",
     "geom:latitude":37.479083,
     "geom:longitude":126.975632,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.479346,
     "lbl:longitude":126.97868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.478751,
     "mps:longitude":126.975842,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub2f9\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Sadang-dong",
-        "\uc0ac\ub2f9\ub3d9"
+    "name:und_x_variant":[
+        "Sadang-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6573637,
         "gp:id":28835137,
-        "qs:id":1068125,
         "qs_pg:id":1068125
     },
     "wof:country":"KO",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497315391,
+    "wof:lastmodified":1566581680,
     "wof:name":"\uc0ac\ub2f9\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

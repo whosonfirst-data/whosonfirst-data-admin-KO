@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4565873.287737,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.899673,35.174979,126.899673,35.174979",
     "geom:latitude":35.174979,
     "geom:longitude":126.899673,
     "gn:latitude":34.8064,
     "gn:longitude":127.05124,
     "iso:country":"KO",
+    "lbl:bbox":"126.894673,35.169979,126.904673,35.179979",
     "lbl:latitude":35.174979,
     "lbl:longitude":126.899673,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.178207,
     "mps:longitude":126.903639,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:kor_x_variant":[
         "\uc6a9\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Yongdong",
-        "\uc6a9\ubd09\ub3d9"
+    "name:und_x_variant":[
+        "Yongdong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -65,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673199,
         102191569,
         85632231,
         102026391,
         890472273,
-        85673199,
         85673219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6684245,
         "gp:id":28995189,
-        "qs:id":238702,
         "qs_pg:id":238702
     },
     "wof:country":"KO",
@@ -105,7 +105,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938954,
+    "wof:lastmodified":1566581628,
     "wof:name":"\uc6a9\ubd09\ub3d9",
     "wof:parent_id":102026391,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22773471.65504,
+    "geom:area_square_m":0.0,
     "geom:bbox":"127.327069,36.304893,127.327069,36.304893",
     "geom:latitude":36.304893,
     "geom:longitude":127.327069,
     "gn:latitude":37.25667,
     "gn:longitude":127.14444,
     "iso:country":"KO",
+    "lbl:bbox":"127.322069,36.299893,127.332069,36.309893",
     "lbl:latitude":36.304893,
     "lbl:longitude":127.327069,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.303624,
     "mps:longitude":127.330041,
     "mz:hierarchy_label":0,
@@ -65,10 +67,6 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e39\u0e27\u0e47\u0e2d\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Suwon-dong",
-        "\uac00\uc218\uc6d0\ub3d9"
-    ],
     "name:zho_x_preferred":[
         "\u6c34\u539f\u5e02"
     ],
@@ -101,19 +99,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673207,
         102191569,
         85632231,
         102026311,
-        1108746515,
-        85673207
+        1108746515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6573737,
         "gp:id":28995240,
-        "qs:id":1198017,
         "qs_pg:id":1198017
     },
     "wof:country":"KO",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938962,
+    "wof:lastmodified":1566581628,
     "wof:name":"\uac00\uc218\uc6d0\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

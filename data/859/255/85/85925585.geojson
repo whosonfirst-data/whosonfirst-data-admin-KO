@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1283804.323518,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.958557,37.373651,126.958557,37.373651",
     "geom:latitude":37.373651,
     "geom:longitude":126.958557,
     "gn:latitude":37.38083,
     "gn:longitude":126.95694,
     "iso:country":"KO",
+    "lbl:bbox":"126.953557,37.368651,126.963557,37.378651",
     "lbl:latitude":37.373651,
     "lbl:longitude":126.958557,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.374898,
     "mps:longitude":126.956839,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\uc2e0\ucd0c\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Sinchon-dong",
-        "\uc2e0\ucd0c\ub3d9"
+    "name:und_x_variant":[
+        "Sinchon-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -60,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026501,
-        1108746411,
-        85673191
+        1108746411
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6572094,
         "gp:id":28806784,
-        "qs:id":1197758,
         "qs_pg:id":1197758
     },
     "wof:country":"KO",
@@ -91,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938779,
+    "wof:lastmodified":1566581684,
     "wof:name":"\uc2e0\ucd0c\ub3d9",
     "wof:parent_id":102026501,
     "wof:placetype":"neighbourhood",

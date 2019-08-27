@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1523592.629125,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.642151,37.437794,126.642151,37.437794",
     "geom:latitude":37.437794,
     "geom:longitude":126.642151,
     "gn:latitude":37.08861,
     "gn:longitude":126.96611,
     "iso:country":"KO",
+    "lbl:bbox":"126.637151,37.432794,126.647151,37.442794",
     "lbl:latitude":37.437794,
     "lbl:longitude":126.642151,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.437358,
     "mps:longitude":126.64146,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\uc2e0\ud765\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Sinheung-dong",
-        "\uc2e0\ud765\ub3d9"
+    "name:und_x_variant":[
+        "Sinheung-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -61,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673177,
         102191569,
         85632231,
         102026447,
-        1108746503,
-        85673177
+        1108746503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6575441,
         "gp:id":28995146,
-        "qs:id":1197940,
         "qs_pg:id":1197940
     },
     "wof:country":"KO",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938938,
+    "wof:lastmodified":1566581630,
     "wof:name":"\uc2e0\ud765\ub3d9",
     "wof:parent_id":102026447,
     "wof:placetype":"neighbourhood",

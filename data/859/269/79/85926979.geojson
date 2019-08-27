@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":117247.452338,
+    "geom:area_square_m":117247.452339,
     "geom:bbox":"126.966247559,37.553287638,126.968994141,37.5576424176",
     "geom:latitude":37.555465,
     "geom:longitude":126.967621,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.555211,
     "lbl:longitude":126.967621,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.555465,
     "mps:longitude":126.967619,
     "mz:hierarchy_label":1,
@@ -33,9 +34,8 @@
         "\ud48d\uc815\ub3d9",
         "P\u2019ungj\u014fng-dong"
     ],
-    "name:unk_x_variant":[
-        "Pungjeongdong",
-        "\ucda9\uc815\ub85c\ub3d9"
+    "name:und_x_variant":[
+        "Pungjeongdong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":6398799,
         "gp:id":28995034,
-        "qs:id":1086487,
         "qs_pg:id":1086487
     },
     "wof:country":"KO",
@@ -96,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497314011,
+    "wof:lastmodified":1566581657,
     "wof:name":"\ucda9\uc815\ub85c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

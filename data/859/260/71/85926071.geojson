@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1363058.839524,
+    "geom:area_square_m":1363058.839526,
     "geom:bbox":"127.017059326,37.5467549817,127.032165527,37.5609083057",
     "geom:latitude":37.55344,
     "geom:longitude":127.025195,
@@ -13,6 +13,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.553835,
     "lbl:longitude":127.025807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.553175,
     "mps:longitude":127.025056,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Wangsimri"
     ],
     "name:kor_x_preferred":[
-        "\uc655\uc2ed\ub9ac"
-    ],
-    "name:unk_x_variant":[
         "\uc655\uc2ed\ub9ac"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835051,
-        "qs:id":1091443,
         "qs_pg:id":1091443
     },
     "wof:country":"KO",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527268893,
+    "wof:lastmodified":1566581649,
     "wof:name":"\uc655\uc2ed\ub9ac",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

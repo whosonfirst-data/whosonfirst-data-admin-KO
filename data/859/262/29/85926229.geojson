@@ -12,6 +12,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.524707,
     "lbl:longitude":126.884283,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.525161,
     "mps:longitude":126.87949,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "name:kor_x_preferred":[
-        "\ubaa9\ub3d9"
-    ],
-    "name:unk_x_variant":[
         "\ubaa9\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -53,7 +51,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -81,7 +79,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1566581671,
     "wof:name":"\ubaa9\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

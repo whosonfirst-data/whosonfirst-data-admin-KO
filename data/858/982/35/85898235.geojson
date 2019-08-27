@@ -10,8 +10,10 @@
     "geom:latitude":44.818645,
     "geom:longitude":20.413485,
     "iso:country":"KO",
+    "lbl:bbox":"20.408485,44.813645,20.418485,44.823645",
     "lbl:latitude":44.818645,
     "lbl:longitude":20.413485,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.819303,
     "mps:longitude":20.407907,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:srp_cyr_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:und_x_preferred":[
-        "Novi Beograd"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novi Beograd"
     ],
     "qs:gn_adm0_cc":"RS",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566326136,
+    "wof:lastmodified":1566581685,
     "wof:name":"Novi Beograd",
     "wof:parent_id":101914147,
     "wof:placetype":"neighbourhood",

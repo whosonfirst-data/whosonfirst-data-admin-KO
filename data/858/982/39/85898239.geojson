@@ -11,8 +11,10 @@
     "geom:longitude":20.445613,
     "gn:id":"",
     "iso:country":"KO",
+    "lbl:bbox":"20.440613,44.786988,20.450613,44.796988",
     "lbl:latitude":44.791988,
     "lbl:longitude":20.445613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.77583,
     "mps:longitude":20.463124,
     "mz:hierarchy_label":0,
@@ -59,14 +61,8 @@
         "Topcider",
         "Topcidersko Brdo"
     ],
-    "name:und_x_preferred":[
-        "Top\u010didersko Brdo"
-    ],
     "name:und_x_variant":[
         "Top\u010dider"
-    ],
-    "name:unk_x_variant":[
-        "Top\u010didersko Brdo"
     ],
     "qs:gn_adm0_cc":"RS",
     "qs:gn_id":0,
@@ -110,7 +106,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":537126,
-        "qs:id":1078950,
         "qs_pg:id":1078950,
         "wd:id":"Q655022"
     },
@@ -131,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566326135,
+    "wof:lastmodified":1566581686,
     "wof:name":"Top\u010didersko Brdo",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

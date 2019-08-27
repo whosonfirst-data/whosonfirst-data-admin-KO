@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.555939,
     "lbl:longitude":127.119601,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.562772,
     "mps:longitude":127.12801,
     "mz:hierarchy_label":1,
@@ -52,9 +53,8 @@
     "name:spa_x_preferred":[
         "Amsa-dong"
     ],
-    "name:unk_x_variant":[
-        "Amsa",
-        "\uc554\uc0ac\ub3d9"
+    "name:und_x_variant":[
+        "Amsa"
     ],
     "name:vie_x_preferred":[
         "Amsa-dong"
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -78,7 +78,6 @@
     "wof:concordances":{
         "gn:id":1847010,
         "gp:id":28835164,
-        "qs:id":1086474,
         "qs_pg:id":1086474,
         "wd:id":"Q2647314",
         "wk:page":"Amsa-dong"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791167,
+    "wof:lastmodified":1566581678,
     "wof:name":"\uc554\uc0ac\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

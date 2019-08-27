@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3234399.778922,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.804138,37.656399,126.804138,37.656399",
     "geom:latitude":37.656399,
     "geom:longitude":126.804138,
     "gn:latitude":37.56533,
     "gn:longitude":127.19376,
     "iso:country":"KO",
+    "lbl:bbox":"126.799138,37.651399,126.809138,37.661399",
     "lbl:latitude":37.656399,
     "lbl:longitude":126.804138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.64925,
     "mps:longitude":126.805823,
     "mz:hierarchy_label":0,
@@ -32,9 +34,8 @@
         "\uc0b0\ud669\ub3d9",
         "\ud48d\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "P\u2019ungsan-dong",
-        "\ud48d\uc0b0\ub3d9"
+    "name:und_x_variant":[
+        "P\u2019ungsan-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -64,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673191,
         102191569,
         85632231,
         102026411,
-        1108746465,
-        85673191
+        1108746465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6800744,
         "gp:id":28806915,
-        "qs:id":358526,
         "qs_pg:id":358526
     },
     "wof:country":"KO",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938805,
+    "wof:lastmodified":1566581636,
     "wof:name":"\ud48d\uc0b0\ub3d9",
     "wof:parent_id":102026411,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,10 @@
     "geom:longitude":20.472332,
     "gn:id":"",
     "iso:country":"KO",
+    "lbl:bbox":"20.467332,44.796597,20.477332,44.806597",
     "lbl:latitude":44.801597,
     "lbl:longitude":20.472332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.799206,
     "mps:longitude":20.467682,
     "mz:hierarchy_label":0,
@@ -103,12 +105,6 @@
     "name:und_x_colloquial":[
         "Vracar"
     ],
-    "name:und_x_preferred":[
-        "Vra\u010dar"
-    ],
-    "name:unk_x_variant":[
-        "Vra\u010dar"
-    ],
     "name:zho_x_preferred":[
         "\u5f17\u62c9\u67e5\u5c14"
     ],
@@ -151,7 +147,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":537531,
-        "qs:id":343422,
         "qs_pg:id":343422,
         "wd:id":"Q1006522"
     },
@@ -172,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566326138,
+    "wof:lastmodified":1566581686,
     "wof:name":"Vra\u010dar",
     "wof:parent_id":101914161,
     "wof:placetype":"neighbourhood",

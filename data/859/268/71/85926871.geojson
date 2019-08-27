@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.561984,
     "lbl:longitude":127.019176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.561591,
     "mps:longitude":127.021251,
     "mz:hierarchy_label":1,
@@ -43,16 +44,15 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e2e\u0e27\u0e31\u0e07\u0e2e\u0e31\u0e01"
     ],
-    "name:unk_x_variant":[
-        "K\u014dkai-d\u014d",
-        "\ud669\ud559\ub3d9"
+    "name:und_x_variant":[
+        "K\u014dkai-d\u014d"
     ],
     "name:vie_x_preferred":[
         "Hwanghak-dong"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -64,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1876887,
         "gp:id":28995010,
-        "qs:id":896611,
+        "qs_pg:id":896611,
         "wd:id":"Q5952026"
     },
     "wof:country":"KO",
@@ -83,7 +83,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572744,
+    "wof:lastmodified":1566581639,
     "wof:name":"\ud669\ud559\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

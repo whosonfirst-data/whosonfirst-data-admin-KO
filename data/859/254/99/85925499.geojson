@@ -10,8 +10,10 @@
     "geom:latitude":37.350399,
     "geom:longitude":127.108501,
     "iso:country":"KO",
+    "lbl:bbox":"127.103501,37.345399,127.113501,37.355399",
     "lbl:latitude":37.350399,
     "lbl:longitude":127.108501,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.350041,
     "mps:longitude":127.106548,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "\uad81\ub0b4\ub3d9",
         "\uae08\uace11",
         "\uae08\uace1\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "\uae08\uace11\ub3d9"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u8c37\u6d1e"
@@ -69,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -98,7 +97,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572784,
+    "wof:lastmodified":1566581669,
     "wof:name":"\uae08\uace11\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

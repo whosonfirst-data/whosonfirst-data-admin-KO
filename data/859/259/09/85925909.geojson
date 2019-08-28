@@ -12,8 +12,10 @@
     "gn:latitude":35.60844,
     "gn:longitude":127.77855,
     "iso:country":"KO",
+    "lbl:bbox":"127.138021,35.810288,127.148021,35.820288",
     "lbl:latitude":35.815288,
     "lbl:longitude":127.143021,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.810343,
     "mps:longitude":127.139271,
     "mz:hierarchy_label":0,
@@ -43,9 +45,8 @@
     "name:spa_x_preferred":[
         "Lago Carwitzer"
     ],
-    "name:unk_x_variant":[
-        "\uc911\ubc29\ub3d9",
-        "\uc911\uc559\ub3d9"
+    "name:und_x_variant":[
+        "\uc911\ubc29\ub3d9"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -74,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673195,
         102191569,
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":6894327,
         "gp:id":28807725,
-        "qs:id":230189,
+        "qs_pg:id":230189,
         "wk:page":"Carwitzer See"
     },
     "wof:country":"KO",
@@ -105,7 +106,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1564184725,
+    "wof:lastmodified":1566581643,
     "wof:name":"\uc911\uc559\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

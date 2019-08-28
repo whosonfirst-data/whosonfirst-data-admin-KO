@@ -10,8 +10,10 @@
     "geom:latitude":44.791258,
     "geom:longitude":20.438169,
     "iso:country":"KO",
+    "lbl:bbox":"20.433169,44.786258,20.443169,44.796258",
     "lbl:latitude":44.791258,
     "lbl:longitude":20.438169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.771821,
     "mps:longitude":20.440197,
     "mz:hierarchy_label":0,
@@ -47,12 +49,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u045a\u0430\u043a"
-    ],
-    "name:und_x_preferred":[
-        "Senjak"
-    ],
-    "name:unk_x_variant":[
-        "Senjak"
     ],
     "qs:gn_adm0_cc":"RS",
     "qs:gn_id":0,
@@ -114,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566326138,
+    "wof:lastmodified":1566581686,
     "wof:name":"Senjak",
     "wof:parent_id":101914163,
     "wof:placetype":"neighbourhood",

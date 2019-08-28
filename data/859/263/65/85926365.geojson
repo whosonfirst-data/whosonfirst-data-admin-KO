@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":6093430.766233,
+    "geom:area_square_m":6093430.766219,
     "geom:bbox":"127.054138184,37.4569058976,127.087097168,37.4835765504",
     "geom:latitude":37.469979,
     "geom:longitude":127.069238,
@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.471704,
     "lbl:longitude":127.070423,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.470702,
     "mps:longitude":127.067904,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:kor_x_preferred":[
         "\uac1c\ud3ec\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Gaepo-dong",
-        "\uac1c\ud3ec\ub3d9"
+    "name:und_x_variant":[
+        "Gaepo-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":6573441,
         "gp:id":28835152,
-        "qs:id":1222810,
         "qs_pg:id":1222810
     },
     "wof:country":"KO",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497310298,
+    "wof:lastmodified":1566581681,
     "wof:name":"\uac1c\ud3ec\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

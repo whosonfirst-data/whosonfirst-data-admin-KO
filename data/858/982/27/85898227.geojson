@@ -10,8 +10,10 @@
     "geom:latitude":44.759453,
     "geom:longitude":20.471939,
     "iso:country":"KO",
+    "lbl:bbox":"20.466939,44.754453,20.476939,44.764453",
     "lbl:latitude":44.759453,
     "lbl:longitude":20.471939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.75637,
     "mps:longitude":20.481475,
     "mz:hierarchy_label":0,
@@ -60,12 +62,6 @@
     "name:swe_x_preferred":[
         "Banjica"
     ],
-    "name:und_x_preferred":[
-        "Banjica"
-    ],
-    "name:unk_x_variant":[
-        "Banjica"
-    ],
     "qs:gn_adm0_cc":"RS",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":792680,
@@ -110,7 +106,6 @@
     "wof:concordances":{
         "gn:id":792914,
         "gp:id":532551,
-        "qs:id":889994,
         "qs_pg:id":889994,
         "wd:id":"Q2882582",
         "wk:page":"Banjica"
@@ -132,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566326133,
+    "wof:lastmodified":1566581686,
     "wof:name":"Banjica",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

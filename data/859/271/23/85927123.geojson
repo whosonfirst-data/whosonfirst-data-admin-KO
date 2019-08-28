@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.475887,
     "lbl:longitude":127.086334,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.472385,
     "mps:longitude":127.08929,
     "mz:hierarchy_label":1,
@@ -31,9 +32,8 @@
     "name:kor_x_variant":[
         "\uc77c\uc6d0\ubcf8"
     ],
-    "name:unk_x_variant":[
-        "Irwonbon-dong",
-        "\uc77c\uc6d0\ubcf8\ub3d9"
+    "name:und_x_variant":[
+        "Irwonbon-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":6571525,
         "gp:id":28995064,
-        "qs:id":1001196,
         "qs_pg:id":1001196
     },
     "wof:country":"KO",
@@ -94,7 +93,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1497311259,
+    "wof:lastmodified":1566581664,
     "wof:name":"\uc77c\uc6d0\ubcf8\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

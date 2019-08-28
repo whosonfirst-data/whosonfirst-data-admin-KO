@@ -10,8 +10,10 @@
     "geom:latitude":35.543755,
     "geom:longitude":129.258749,
     "iso:country":"KO",
+    "lbl:bbox":"129.253749,35.538755,129.263749,35.548755",
     "lbl:latitude":35.543755,
     "lbl:longitude":129.258749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.53977,
     "mps:longitude":129.260964,
     "mz:hierarchy_label":0,
@@ -65,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673231,
         102191569,
@@ -94,7 +96,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572740,
+    "wof:lastmodified":1566581636,
     "wof:name":"\ubb34\uac70\ub3d9",
     "wof:parent_id":102026291,
     "wof:placetype":"neighbourhood",

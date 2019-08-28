@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.54289,
     "lbl:longitude":126.934517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.540865,
     "mps:longitude":126.934809,
     "mz:hierarchy_label":1,
@@ -37,10 +38,6 @@
     "name:swe_x_preferred":[
         "Changjeon-dong"
     ],
-    "name:unk_x_variant":[
-        "Changjeon-dong",
-        "\ucc3d\uc804\ub3d9"
-    ],
     "name:vie_x_preferred":[
         "Changjeon-dong"
     ],
@@ -48,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -60,7 +57,6 @@
     "wof:concordances":{
         "gn:id":6577845,
         "gp:id":28995040,
-        "qs:id":424429,
         "qs_pg:id":424429,
         "wd:id":"Q5072055"
     },
@@ -80,7 +76,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572771,
+    "wof:lastmodified":1566581658,
     "wof:name":"\ucc3d\uc804\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

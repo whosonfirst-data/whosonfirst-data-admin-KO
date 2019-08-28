@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14999845.395748,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.648487,37.423037,126.648487,37.423037",
     "geom:latitude":37.423037,
     "geom:longitude":126.648487,
     "gn:latitude":37.66667,
     "gn:longitude":126.81667,
     "iso:country":"KO",
+    "lbl:bbox":"126.643487,37.418037,126.653487,37.428037",
     "lbl:latitude":37.423037,
     "lbl:longitude":126.648487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.419637,
     "mps:longitude":126.646119,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:kor_x_preferred":[
         "\uc625\ub828\ub3d9"
     ],
-    "name:unk_x_variant":[
-        "Oyong-dong",
-        "\uc625\ub828\ub3d9"
+    "name:und_x_variant":[
+        "Oyong-dong"
     ],
     "qs:gn_adm0_cc":"KR",
     "qs:gn_fcode":"PPL",
@@ -61,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673177,
         102191569,
         85632231,
         102026447,
-        1108746503,
-        85673177
+        1108746503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1839683,
         "gp:id":28995160,
-        "qs:id":237084,
         "qs_pg:id":237084
     },
     "wof:country":"KO",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938946,
+    "wof:lastmodified":1566581629,
     "wof:name":"\uc625\ub828\ub3d9",
     "wof:parent_id":102026447,
     "wof:placetype":"neighbourhood",

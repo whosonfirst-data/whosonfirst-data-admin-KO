@@ -14,6 +14,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.509728,
     "lbl:longitude":126.885964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.50648,
     "mps:longitude":126.882302,
     "mz:hierarchy_label":1,
@@ -46,9 +47,8 @@
     "name:swe_x_preferred":[
         "Sindorim-dong"
     ],
-    "name:unk_x_variant":[
-        "\uc2e0\ub3c4\ub3d9",
-        "\uc2e0\ub3c4\ub9bc\ub3d9"
+    "name:und_x_variant":[
+        "\uc2e0\ub3c4\ub3d9"
     ],
     "name:vie_x_preferred":[
         "Sindorim-dong"
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":6801419,
         "gp:id":28995047,
-        "qs:id":220007,
         "qs_pg:id":220007,
         "wd:id":"Q2648179"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572772,
+    "wof:lastmodified":1566581659,
     "wof:name":"\uc2e0\ub3c4\ub9bc\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

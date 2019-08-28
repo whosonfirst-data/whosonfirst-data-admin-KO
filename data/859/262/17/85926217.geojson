@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":1032489.206394,
+    "geom:area_square_m":1032489.206393,
     "geom:bbox":"126.907451315,37.564174105,126.920673685,37.5750590051",
     "geom:latitude":37.5698,
     "geom:longitude":126.914338,
@@ -13,6 +13,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.567734,
     "lbl:longitude":126.913719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.569617,
     "mps:longitude":126.914338,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Buggajwa"
     ],
     "name:kor_x_preferred":[
-        "\ubd81\uac00\uc88c"
-    ],
-    "name:unk_x_variant":[
         "\ubd81\uac00\uc88c"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835106,
-        "qs:id":236628,
         "qs_pg:id":236628
     },
     "wof:country":"KO",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1527269259,
+    "wof:lastmodified":1566581671,
     "wof:name":"\ubd81\uac00\uc88c",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

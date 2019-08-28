@@ -12,8 +12,10 @@
     "gn:latitude":37.40333,
     "gn:longitude":127.12944,
     "iso:country":"KO",
+    "lbl:bbox":"127.118598,37.382189,127.128598,37.392189",
     "lbl:latitude":37.387189,
     "lbl:longitude":127.123598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.389556,
     "mps:longitude":127.122178,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     "name:kor_x_variant":[
         "\uc774\ub9e42",
         "\uc774\ub9e4\ub3d9"
-    ],
-    "name:unk_x_variant":[
-        "\uc774\ub9e4\ub3d9",
-        "\uc774\ub9e42\ub3d9"
     ],
     "name:zho_x_preferred":[
         "\u4e8c\u6885\u6d1e"
@@ -70,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":6573494,
         "gp:id":28806733,
-        "qs:id":1086455,
         "qs_pg:id":1086455,
         "wd:id":"Q6002022"
     },
@@ -102,7 +99,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1561791166,
+    "wof:lastmodified":1566581668,
     "wof:name":"\uc774\ub9e42\ub3d9",
     "wof:parent_id":102026521,
     "wof:placetype":"neighbourhood",

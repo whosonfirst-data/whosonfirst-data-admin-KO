@@ -13,6 +13,7 @@
     "iso:country":"KO",
     "lbl:latitude":37.560419,
     "lbl:longitude":126.991646,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.558165,
     "mps:longitude":126.99977,
     "mz:hierarchy_label":1,
@@ -59,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -70,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28995009,
-        "qs:id":900430,
         "qs_pg:id":900430,
         "wd:id":"Q12610633"
     },
@@ -90,7 +90,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572740,
+    "wof:lastmodified":1566581636,
     "wof:name":"\uc744\uc9c0\ub85c\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

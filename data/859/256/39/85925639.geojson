@@ -12,8 +12,10 @@
     "gn:latitude":36.5932,
     "gn:longitude":126.5638,
     "iso:country":"KO",
+    "lbl:bbox":"126.858937,37.296586,126.868937,37.306586",
     "lbl:latitude":37.301586,
     "lbl:longitude":126.863937,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.298349,
     "mps:longitude":126.866449,
     "mz:hierarchy_label":0,
@@ -48,9 +50,8 @@
     "name:swe_x_preferred":[
         "Il-dong"
     ],
-    "name:unk_x_variant":[
-        "I-dong",
-        "\uc774\ub3d9"
+    "name:und_x_variant":[
+        "I-dong"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -81,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673191,
         102191569,
@@ -93,7 +94,6 @@
     "wof:concordances":{
         "gn:id":6809942,
         "gp:id":28806871,
-        "qs:id":1128320,
         "qs_pg:id":1128320,
         "wd:id":"Q12613630"
     },
@@ -113,7 +113,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1563572764,
+    "wof:lastmodified":1566581654,
     "wof:name":"\uc774\ub3d9",
     "wof:parent_id":102026505,
     "wof:placetype":"neighbourhood",

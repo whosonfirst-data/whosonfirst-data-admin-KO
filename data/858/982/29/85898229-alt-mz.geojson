@@ -2,6 +2,7 @@
   "id": 85898229,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"mz",
     "src:geom":"mz",
     "wof:geomhash":"9e0b095ee9fbd0078baf4fd746cbc65d",
     "wof:id":85898229

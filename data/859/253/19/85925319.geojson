@@ -87,6 +87,10 @@
         "wk:page":"Jowon-dong, Suwon"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"698da3511f7dcc0ab6693597a5ae95a4",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581666,
+    "wof:lastmodified":1582347121,
     "wof:name":"\uc870\uc6d02\ub3d9",
     "wof:parent_id":102026323,
     "wof:placetype":"neighbourhood",

@@ -80,6 +80,10 @@
         "wk:page":"Broome railway station"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa155accbb9155592308efacaedef74c",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581651,
+    "wof:lastmodified":1582347118,
     "wof:name":"\ub454\uc0b0\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

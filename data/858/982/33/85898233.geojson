@@ -80,6 +80,11 @@
         "qs_pg:id":343376
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"69a4d2cc89fda5365eb612cc3382b99b",
     "wof:hierarchy":[
         {
@@ -96,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Du\u00b5anovac",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

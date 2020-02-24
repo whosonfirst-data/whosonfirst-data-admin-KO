@@ -91,6 +91,9 @@
         "wk:page":"Carwitzer See"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20efdae542109f8fcf24567f99f71e7d",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581643,
+    "wof:lastmodified":1582347117,
     "wof:name":"\uc911\uc559\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

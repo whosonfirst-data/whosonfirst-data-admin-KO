@@ -151,6 +151,11 @@
         "wd:id":"Q1006522"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"15bc7cc2ca308598f8ca8176b376a72c",
     "wof:hierarchy":[
         {
@@ -167,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Vra\u010dar",
     "wof:parent_id":101914161,
     "wof:placetype":"neighbourhood",

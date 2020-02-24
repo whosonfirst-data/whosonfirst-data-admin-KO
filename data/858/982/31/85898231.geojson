@@ -127,6 +127,11 @@
         "wd:id":"Q2396145"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a256296674f35ec1f9d99c0c93d0d286",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Dor\u0107ol",
     "wof:parent_id":101914143,
     "wof:placetype":"neighbourhood",

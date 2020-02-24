@@ -83,6 +83,9 @@
         "wk:page":"Amsa-dong"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73f83ff4d42f19d6be2b0ca5a19a2119",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581678,
+    "wof:lastmodified":1582347123,
     "wof:name":"\uc554\uc0ac\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

@@ -90,6 +90,10 @@
         "wk:page":"Geumgok-dong, Seongnam"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"163c29fbb32ee63c0f7262a2b2a2c250",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581683,
+    "wof:lastmodified":1582347123,
     "wof:name":"\uae08\uace12\ub3d9",
     "wof:parent_id":102026263,
     "wof:placetype":"neighbourhood",

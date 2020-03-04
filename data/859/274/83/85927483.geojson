@@ -78,6 +78,10 @@
         "wk:page":"West Runton railway station"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca07568948115292f8fde8060fd2c909",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581628,
+    "wof:lastmodified":1582347114,
     "wof:name":"\uc2e0\uc131\ub3d9",
     "wof:parent_id":102026311,
     "wof:placetype":"neighbourhood",

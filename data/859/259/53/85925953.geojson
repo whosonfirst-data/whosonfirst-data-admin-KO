@@ -91,6 +91,10 @@
         "wk:page":"Hida-Hosoe Station"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b062ded3e78bae63d2680ef0e4445e1",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581643,
+    "wof:lastmodified":1582347117,
     "wof:name":"\uc1a1\ucc9c1\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

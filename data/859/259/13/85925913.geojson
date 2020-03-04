@@ -178,6 +178,10 @@
         "wk:page":"Lachapelle-aux-Pots"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfad5979a919ff71450d61fc04982d80",
     "wof:hierarchy":[
         {
@@ -193,7 +197,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581644,
+    "wof:lastmodified":1582347118,
     "wof:name":"\ud48d\ub0a8\ub3d9",
     "wof:parent_id":102026471,
     "wof:placetype":"neighbourhood",

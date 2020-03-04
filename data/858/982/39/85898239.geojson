@@ -110,6 +110,11 @@
         "wd:id":"Q655022"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ba5d98eb7a0ca7b844830bbd6a7f571",
     "wof:hierarchy":[
         {
@@ -126,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Top\u010didersko Brdo",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

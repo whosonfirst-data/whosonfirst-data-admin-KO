@@ -111,6 +111,11 @@
         "wk:page":"Banjica"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6547e027d314211535b084db55de183",
     "wof:hierarchy":[
         {
@@ -127,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Banjica",
     "wof:parent_id":101913173,
     "wof:placetype":"neighbourhood",

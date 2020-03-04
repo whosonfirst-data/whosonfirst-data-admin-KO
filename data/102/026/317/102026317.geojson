@@ -54,6 +54,9 @@
         "qs_pg:id":356107
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d63c2ce96f2cc885fbf05f58c18aeaf",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102026317,
-    "wof:lastmodified":1566581626,
+    "wof:lastmodified":1582347114,
     "wof:name":"Taisen-ri",
     "wof:parent_id":890472595,
     "wof:placetype":"locality",

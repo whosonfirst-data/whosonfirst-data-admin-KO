@@ -94,6 +94,10 @@
         "wd:id":"Q3183106"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"e581a651eff408d8498fe7e53c1fdffa",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566581686,
+    "wof:lastmodified":1582347124,
     "wof:name":"Senjak",
     "wof:parent_id":101914163,
     "wof:placetype":"neighbourhood",

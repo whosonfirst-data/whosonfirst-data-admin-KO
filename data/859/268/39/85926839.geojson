@@ -100,6 +100,9 @@
         "wd:id":"Q2681350"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"918f42119829cc41231c69945400dd43",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566581638,
+    "wof:lastmodified":1582347117,
     "wof:name":"\ud61c\ud654\ub3d9",
     "wof:parent_id":102026327,
     "wof:placetype":"neighbourhood",

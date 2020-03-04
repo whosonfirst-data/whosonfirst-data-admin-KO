@@ -317,6 +317,9 @@
         "wd:id":"Q42094"
     },
     "wof:country":"KO",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36d814c78cffefb148d69bb75ad595f8",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":102026381,
-    "wof:lastmodified":1566581626,
+    "wof:lastmodified":1582347114,
     "wof:name":"Moppo",
     "wof:parent_id":890474687,
     "wof:placetype":"locality",
